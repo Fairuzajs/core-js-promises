@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/rolling-scopes-school/core-js-promises/issues"
   },
-  "homepage": "https://github.com/rolling-scopes-school/core-js-promises#readme"
+  "homepage": "https://github.com/rolling-scopes-school/core-js-promises#readme",
+  "directories": {
+    "test": "test"
+  }
 }
